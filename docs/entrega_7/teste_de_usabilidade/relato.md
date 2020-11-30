@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-<p align="justify"> &emsp;&emsp; Nesse documento será realizado a avaliação dos teste de usabilidade e seu relato de resultados. Esse momento é uma parte extremamente importante da avaliação, uma vez que nesse local que é consolidado os resultados que foram gerados. Além disso, Segundo Barbosa e Silva, "Ela orienta o avaliador a fazer um julgamento de valor sobre a qualidade de uso da solução de IHC e a identificar problemas na interação e na interface que prejudiquem a experiência particular do usuário durante o uso do sistema. Assim, é possível corrigir os problemas relacionados com a qualidade de uso antes de inserir o sistema interativo no cotidiano dos usuários, seja um sistema novo ou uma nova versão de algum sistema existente".
+&emsp;&emsp; Nesse documento será realizado a avaliação dos teste de usabilidade e seu relato de resultados. Esse momento é uma parte extremamente importante da avaliação, uma vez que nesse local que é consolidado os resultados que foram gerados. Além disso, Segundo Barbosa e Silva, "Ela orienta o avaliador a fazer um julgamento de valor sobre a qualidade de uso da solução de IHC e a identificar problemas na interação e na interface que prejudiquem a experiência particular do usuário durante o uso do sistema. Assim, é possível corrigir os problemas relacionados com a qualidade de uso antes de inserir o sistema interativo no cotidiano dos usuários, seja um sistema novo ou uma nova versão de algum sistema existente".
 
 ## 2. Metas de Usabilidade
 
