@@ -110,7 +110,7 @@ Causa: Não há ferramenta que volte ao passo anterior.
 Efeito sobre usuário: Queda na eficiência.
 ```
 
-### 4.1 Relato dos resultados
+### 4 Relato dos resultados
 
 &emsp;&emsp; A seguir temos as respostas para as perguntas definidas no <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_7/teste_de_usabilidade/planejamento">planejamento</a>.
 
@@ -129,3 +129,4 @@ Efeito sobre usuário: Queda na eficiência.
 |Data|Versão|Descrição|Autor|
 |:-:|:-:|:-:|:-:|
 |30/11/2020|1.0|Criação dos tópicos 1, 2, 3|Washington Bispo|
+|30/11/2020|1.0|Criação do tópico 4|Washington Bispo|
