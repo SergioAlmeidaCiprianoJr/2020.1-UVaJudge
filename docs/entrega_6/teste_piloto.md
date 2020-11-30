@@ -112,6 +112,8 @@ Melhor site para se acompanhar com o livro CP3.
 
 <iframe width="720" height="480" src="https://www.youtube-nocookie.com/embed/_CuaEQGN6tA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="720" height="480" src="https://www.youtube-nocookie.com/embed/_CuaEQGN6tA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## 5.2 Washington Bispo Arishita Júnior
 
 ```
@@ -184,6 +186,8 @@ Algumas questões da disciplina de TEP são retiradas de lá.
 ```
 
 <iframe width="720" height="480" src="https://www.youtube-nocookie.com/embed/O5VNGLMAKYQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="720" height="480" src="https://www.youtube-nocookie.com/embed/_CuaEQGN6tA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 6. Bibliografia
 
