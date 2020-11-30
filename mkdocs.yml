@@ -15,8 +15,6 @@ nav:
     - Sobre: index.md
     - Planejamento do Projeto:
         - Porque UVa?: entrega_1/porque_uva.md
-        - Cronograma de atividades: entrega_1/cronograma_atividades.md
-        - Processo de Design: entrega_1/processo_design.md
         - Sites avaliados: 
             - UVa Online Judge:
                 - Planejamento da avaliação: entrega_1/planejamentos_individuais/planejamento_uva.md
@@ -27,6 +25,8 @@ nav:
             - Poupa Tempo SP:
                 - Planejamento da avaliação: entrega_1/planejamentos_individuais/planejamento_poupatemposp.md
                 - Avaliação: entrega_1/avaliacoes_individuais/avaliacao_poupatemposp.md
+        - Processo de Design: entrega_1/processo_design.md
+        - Cronograma de atividades: entrega_1/cronograma_atividades.md
         - Ferramentas: entrega_1/ferramentas.md
     - Análise de requisitos:
         - Análise do Perfil de Usuário:
