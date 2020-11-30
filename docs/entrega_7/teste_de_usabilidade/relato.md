@@ -1,4 +1,4 @@
-# Avaliação dos Testes de Usabilidade
+# Relato dos Testes de Usabilidade
 
 ## 1. Introdução
 
