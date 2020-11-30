@@ -1,4 +1,4 @@
-# Avaliação do protótipo de alta fidelidade
+# Avaliação dos Testes de Usabilidade
 
 ## 1. Introdução
 
