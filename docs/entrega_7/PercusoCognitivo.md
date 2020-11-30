@@ -4,7 +4,7 @@
 
 
 
-## 2. Percurso cognitivo (parcial)
+## 2. Percurso cognitivo
 
 Perfil de usuário: Aluno de graduação se preparando para maratona
 Sistema: UVA

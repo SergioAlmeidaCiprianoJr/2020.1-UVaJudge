@@ -6,7 +6,7 @@
 
 ## 2. Progresso
 
-&emsp;&emsp; Por conta dessa ser a última entrega, não foi requisitado nenhum novo documento, então para essa apresentação realizamos algumas correções nos documentos anteriores. 
+&emsp;&emsp; Por conta dessa ser a última entrega, não foi requisitado nenhum novo documento, então para essa apresentação realizamos algumas correções nos documentos anteriores.
 
 ### 2.1 Correções solicitadas e atendidas
 
@@ -14,6 +14,7 @@
 
 * Criação de tópicos explicando por qual motivo foi feito o que foi feito;
 * Uso de outros métodos de avaliação (Percurso cognitivo);
+* Testes de usabilidade com 3 pessoas (baseados nesse [link](http://www.uxdesignstudio.com.br/por-que-testar-sites-5-usuarios/), decidimos que 3 pessoas já produziam um resultado satisfatório, visto que realizar os testes demandam tempo e preparo e nossa equipe é pequena, logo, todo tempo precisa ser bem gasto para podermos entregar tudo que foi requisitado).
 * Adição de mais contéudos (Storyboard, adição de mais Testes Pilotos).
 
 ## 3. Técnicas utilizadas no projeto
