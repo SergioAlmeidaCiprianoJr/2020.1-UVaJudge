@@ -46,93 +46,68 @@ Entrevistador: Washigton Bispo Arishita Júnior
 ```
 
 1. Qual seu nome?
-
 ```
 Sérgio de Almeida Cipriano Júnior
 ```
-
 2. Qual sua idade?
-
 ```
 19
 ```
-
 3. Qual a sua profissão/ocupação?
-
 ```
 estudante
 ```
-
 4. Qual sua formação?
-
 ```
 superior incompleto
 ```
-
 5. Quais idiomas você fala?
-
 ```
 Inglês e português
 ```
-
 6. Que atividade você mais faz online?
-
 ```
 Atualmente, estudo e programo.
 ```
-
 7. Você já participou de alguma maratona de programação como competidor?
-
 ```
 Sim.
 ```
-
 8. Você já participou de alguma maratona de programação como voluntário(entregar balões, criar questões, criar soluções prévias)?
-
 ```
 Não.
 ```
-
 9. Você já utilizou algum site de programação para resolver questões? Se sim, quais?
-
 ```
 Sim, usei UVa, Codeforces, CD-MOJ, ProjectEuler, entre outros.
 ```
-
 10. Você conhece o site UVA?
-
 ```
 Se sim, por onde conheceu? Sim, por PPC (disciplina programação por competições)
 ```
-
 11. Qual foi a sua primeira impressão do UVA?
-
 ```
 Uma mistura de muito útil e muito confuso.
 ```
-
 12. Quais suas principais atividades no UVa?
-
 ```
 Resolver questões do CP3.
 ```
-
 13. Você já experienciou alguma dificuldade, barreira ou problema enquanto às fazia?
-
 ```
 encontrei um problema em um caso de teste disponibilizado erroneamente no uDebug. 
 ```
-
 14. Você ainda usa o UVA?
-
 ```
 Sim, muito raramente.
 ```
-
 15. Qual foi a última vez que utilizou o UVa?
-
 ```
-Há 3 meses atrás. Melhor site para se acompanhar com o livro CP3
+Há 3 meses atrás.
+```
+16. Porque você usa o UVa?
+```
+Melhor site para se acompanhar com o livro CP3.
 ```
 
 <iframe width="720" height="480" src="https://www.youtube-nocookie.com/embed/_CuaEQGN6tA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -145,77 +120,70 @@ Há 3 meses atrás. Melhor site para se acompanhar com o livro CP3
 Entrevistador: Sérgio de Almeida Cipriano Júnior
 ```
 
-1. Q
-
-```
+1. Qual seu nome?
 ```
 Washington Bispo Arishita Júnior
-
-
-2.. Q
-Qua
-
+```
+2. Qual sua idade?
+```
+21
+```
 3. Qual a sua profissão/ocupação?
-
-```l sua formação?
 ```
-.```
+estudante
 ```
-
-```.
-estu
-4. Q
+4. Qual sua formação?
 ```
-
-Inglês e português.
+superior incompleto
 ```
-
-5. Q
+5. Quais idiomas você fala?
 ```
-Ingl
-
+Inglês e português
+```
 6. Que atividade você mais faz online?
 ```
 Atualmente, estudo, jogo, programo.
-
+```
 7. Você já participou de alguma maratona de programação como competidor?
 ```
 Sim.
-
+```
 8. Você já participou de alguma maratona de programação como voluntário(entregar balões, criar questões, criar soluções prévias)?
 ```
 Não.
-
+```
 9. Você já utilizou algum site de programação para resolver questões? Se sim, quais?
 ```
 Sim, usei UVa, Codeforces, Atcoder, entre outros.
-
+```
 10. Você conhece o site UVA?
 ```
 Se sim, por onde conheceu? Sim, por PPC (disciplina programação por competições)
-
+```
 11. Qual foi a sua primeira impressão do UVA?
 ```
 Eu achei ele péssimo.
-
+```
 12. Quais suas principais atividades no UVa?
 ```
 Resolver as questões oferecidas pelo o site.
-
+```
 13. Você já experienciou alguma dificuldade, barreira ou problema enquanto às fazia?
 ```
 O site não permitia eu rever minhas submissões.
-
+```
 14. Você ainda usa o UVA?
 ```
 Sim, algumas vezes no mês.
-
+```
 15. Qual foi a última vez que utilizou o UVa?
 ```
 Há 2 semanas.
 ```
 16. Porque você usa o UVa?
-
+```
+Algumas questões da disciplina de TEP são retiradas de lá.
+```
 
 <iframe width="720" height="480" src="https://www.youtube-nocookie.com/embed/cQPqyzppEUY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
