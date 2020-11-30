@@ -49,13 +49,13 @@
 
 ## 3. Dados Percentuais:
 
-### 4.1 Aspectos gerais 
+### 3.1 Aspectos gerais 
 
 100% da inspeção geral foi satisfeita.
 
-### 4.2 Aspectos especifícos
+### 3.2 Aspectos especifícos
 
-### Storyboards
+#### Storyboards
 
 | Storyboard | Percentual |
 |:--:|:--:|
@@ -65,7 +65,7 @@
 | S4 | 100% |
 | S5 | 100% |
 
-### Perguntas
+#### Perguntas
 
 | Número | Questão | Porcentagem |
 |:--:|--|:--:|
@@ -73,14 +73,15 @@
 | 2 | A história faz sentido com o propósito? | 100% |
 | 3 | A tarefa está sendo explicada? | 100% |
 
-## 5. Referencias
+## 4. Referencias
 
 >WIEGERS, Karl; BEATTY, Joy. "Software Requirements". Microsoft Press, 2013.
 
 >MELO, Silvana. "Inspeção de software". Instituto de Computação e Matemática Computacional, Universidade de São Paulo.
 
-## 6. Versionamento
+## 5. Versionamento
 
 |Data|Versão|Descrição|Autor|
 |:-:|:-:|:-:|:-:|
 |30/11/2020|1.0|Criação da versão inicial do documento com os tópicos 1, 2, 3, 4|Washington Bispo|
+|30/11/2020|1.1|Arrumando os tópicos|Washington Bispo|
