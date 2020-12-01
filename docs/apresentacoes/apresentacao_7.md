@@ -36,9 +36,8 @@
 
 ## 4. Ferramentas utilizadas
 
-<p>As ferramentas utilizadas podem ser encontradas nesse arquivo</p>
-    <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_1/ferramentas/">Ferramentas do projeto</a>;
-</p>
+&emsp;&emsp; As ferramentas utilizadas podem ser encontradas nesse arquivo de
+<a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_1/ferramentas/">Ferramentas do projeto</a>;
 
 ## 5. Apresentação
 
@@ -52,3 +51,4 @@
 |27/11/2020|1.1|Escrevendo descrição do tópico 2.1|Sérgio Cipriano|
 |30/11/2020|1.2|Edição do vídeo|Washington Bispo|
 |01/12/2020|1.3|Adição do vídeo|Washington Bispo|
+|01/12/2020|1.4|Correção de links|Sérgio Cipriano|
