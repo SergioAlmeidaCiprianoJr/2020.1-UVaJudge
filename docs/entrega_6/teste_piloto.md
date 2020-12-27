@@ -190,6 +190,10 @@ Algumas questões da disciplina de TEP são retiradas de lá.
 
 <iframe width="720" height="480" src="https://www.youtube-nocookie.com/embed/O5VNGLMAKYQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## 7. Relato
+
+&emsp;&emsp; Após a realização dos testes-piloto, os desenvolvedores discutiram e decidiram que a execução dele estava apropriada para ser utilizada nos testes de usabilidade. Então foi passada para a próxima etapa.
+
 ## 6. Bibliografia
 
 <p align="justify"> &emsp;&emsp; BARBOSA, Simone; SILVA, Bruno. "Interação Humano-Computador". Elsevier Editora Ltda, 2010.</p>

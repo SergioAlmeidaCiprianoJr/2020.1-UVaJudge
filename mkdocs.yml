@@ -15,8 +15,6 @@ nav:
     - Sobre: index.md
     - Planejamento do Projeto:
         - Porque UVa?: entrega_1/porque_uva.md
-        - Cronograma de atividades: entrega_1/cronograma_atividades.md
-        - Processo de Design: entrega_1/processo_design.md
         - Sites avaliados: 
             - UVa Online Judge:
                 - Planejamento da avaliação: entrega_1/planejamentos_individuais/planejamento_uva.md
@@ -27,6 +25,8 @@ nav:
             - Poupa Tempo SP:
                 - Planejamento da avaliação: entrega_1/planejamentos_individuais/planejamento_poupatemposp.md
                 - Avaliação: entrega_1/avaliacoes_individuais/avaliacao_poupatemposp.md
+        - Processo de Design: entrega_1/processo_design.md
+        - Cronograma de atividades: entrega_1/cronograma_atividades.md
         - Ferramentas: entrega_1/ferramentas.md
     - Análise de requisitos:
         - Análise do Perfil de Usuário:
@@ -58,6 +58,7 @@ nav:
                 - Protótipo de Alta Fidelidade: entrega_6/prototipo_alta/prototipo.md
                 - Planejamento da Avaliação: entrega_6/prototipo_alta/planejamento_avaliacao.md
                 - Avaliação e Relato dos Resultados: entrega_6/prototipo_alta/avaliacao_relato.md
+            - Percurso Cognitivo: entrega_7/percurso_cognitivo.md
             - Teste Piloto: entrega_6/teste_piloto.md
             - Percurso Cognitivo: PercursoCognitivo.md
             - Teste de Usabilidade:
@@ -66,6 +67,12 @@ nav:
                 - Patrick: entrega_7/teste_de_usabilidade/patrick.md
                 - Eduarda: entrega_7/teste_de_usabilidade/eduarda.md
                 - Relato dos Resultados: entrega_7/teste_de_usabilidade/relato.md
+    - Verificação:
+        - Personas: entrega_7/verificacao/personas.md
+        - Guia de Estilo: entrega_7/verificacao/guia_de_estilo.md
+        - Metas de Usabilidade: entrega_7/verificacao/metas_de_usabilidade.md
+        - Storyboard: entrega_7/verificacao/storyboard.md
+        - Protótipo de Alta Fidelidade: entrega_7/verificacao/prototipo_alta.md
     - Atas das reuniões:
         - Reunião 1: atas/reuniao_1.md
         - Reunião 2: atas/reuniao_2.md
