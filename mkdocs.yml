@@ -9,7 +9,7 @@ theme:
 extra_css:
     - stylesheets/extra.css
 
-repo_url: https://github.com/Interacao-Humano-Computador/2020.1-UVaJudge
+repo_url: https://github.com/sergiosacj/2020.1-UVaJudge
 
 nav:
     - Sobre: index.md
